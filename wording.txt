@@ -1,0 +1,29 @@
+SUAREZ - micro learning app (pour les langues ?)
+
+Apprendre est essentiel dans les carrières d'ajourd'hui. Mais cela demande un investissement de temps et d'argent souvent au dela de ce que nous disposons. Le micro learning permet d'adapter le besoin d'apprentissage dans un contexte ou le temps et les moyens sont souvent faibles.
+
+Suarez propose de mettre en relation des tuteurs et des apprenants entre eux pour profiter de tutorat lorsqu'on a du temps et à moindre frais. Vous suivez votre leçon et vous la payez au prorata de ce que vous avez utiliser comme temps
+
+Tuteur : 
+
+Trouver un complément d'activité basé sur votre temps libre et 
+
+votre position géographique
+
+Proposer des mini exercices et soumetez votre correction 
+
+Apprenant : 
+
+Recherchez parmis nos professeurs selectionnés celui que vous recherchez
+
+régler en fonction de vos possibilités
+
+Apprenez à votre rythme avec des professeurs qualifiés
+
+Features :
+
+Login professeurs
+login apprenant
+Géolocalisation apprenant et professeurs
+paiements avec stripe ou braintree
+
